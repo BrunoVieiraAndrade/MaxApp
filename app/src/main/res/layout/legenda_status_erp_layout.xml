@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="@layout/legendas_dialog">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/erp_status"
+        android:textSize="12sp"
+        android:layout_marginBottom="8dp" />
+
+    <include layout="@layout/processamento_fv_layout" />
+
+    <include layout="@layout/pedido_recusado_layout" />
+
+    <include layout="@layout/posicao_pendente_layout" />
+
+    <include layout="@layout/posicao_bloqueado_layout" />
+
+    <include layout="@layout/posicao_liberado_layout" />
+
+    <include layout="@layout/posicao_montado_layout" />
+
+    <include layout="@layout/posicao_faturado_layout" />
+
+    <include layout="@layout/posicao_cancelado_layout" />
+
+    <include layout="@layout/orcamento_layout" />
+</merge>

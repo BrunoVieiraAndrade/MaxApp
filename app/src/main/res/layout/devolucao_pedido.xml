@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="@dimen/legenda_items_margin"
+    tools:showIn="@layout/legendas_layout">
+
+    <ImageView
+        android:layout_width="@dimen/legenda_small_icon_size"
+        android:layout_height="@dimen/legenda_small_icon_size"
+        android:gravity="center"
+        android:src="@drawable/ic_maxima_legenda_devolucao"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/legenda_text_size"
+        android:text="@string/pedido_devolucao" />
+</LinearLayout>

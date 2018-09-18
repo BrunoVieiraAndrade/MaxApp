@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="@dimen/legenda_items_margin"
+    tools:showIn="@layout/legenda_status_erp_layout">
+
+    <TextView
+        android:layout_width="@dimen/legenda_icon_size"
+        android:layout_height="@dimen/legenda_icon_size"
+        android:text="P"
+        android:gravity="center"
+        android:textSize="@dimen/legenda_text_size"
+        android:textColor="@android:color/white"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/rounder"
+        android:backgroundTint="@android:color/tertiary_text_light"
+        android:layout_marginRight="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/legenda_text_size"
+        android:text="@string/posicao_pendente" />
+</LinearLayout>

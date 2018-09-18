@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_icon_size">60dp</dimen>
+    <dimen name="menu_text_size">18sp</dimen>
+    <dimen name="nuvem_size">30dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="legenda_icon_size">20dp</dimen>
+    <dimen name="legenda_small_icon_size">18sp</dimen>
+    <dimen name="legenda_items_margin">4dp</dimen>
+    <dimen name="legenda_text_size">12sp</dimen>
+
+    // menu images sizes
+    <dimen name="design_navigation_icon_size">10dp</dimen>
+    <dimen name="image_status_size">35dp</dimen>
+</resources>

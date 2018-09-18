@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">maxApp</string>
+    <string name="clientes_label">Clientes</string>
+    <string name="pedidos_label">Pedidos</string>
+    <string name="resumo_label">Resumo de vendas</string>
+    <string name="ferramentas_label">Ferramentas</string>
+    <string name="version_placeholder">v.1.0.0</string>
+    <string name="title_activity_dados_do_cliente">Dados do Cliente</string>
+    <string name="title_dados">Dados</string>
+    <string name="title_historico">Hist. Pedidos</string>
+    <string name="title_alvaras">Alvarás</string>
+    <string name="legendas_label">Legendas</string>
+    <string name="erp_status">Status do pedido no ERP</string>
+    <string name="processamento_FV">Em processamento por parte do FV</string>
+    <string name="recusado_erp">Pedido recusado pelo ERP</string>
+    <string name="posicao_pendente">Posição no ERP Pendente</string>
+    <string name="posicao_bloqueado">Posição no ERP Bloqueado</string>
+    <string name="posicao_montado">Posição no ERP Montado</string>
+    <string name="posicao_faturado">Posição no ERP Faturado</string>
+    <string name="posicao_liberado">Posição no ERP Liberado</string>
+    <string name="posicao_cancelado">Posição no ERP Cancelado</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="critica">Crítica</string>
+    <string name="aguardando_retorno">Aguardando retorno do ERP</string>
+    <string name="sucesso">Sucesso</string>
+    <string name="falha_parcial">Falha Parcial</string>
+    <string name="falha_total">Falha Total</string>
+    <string name="pedido_devolucao">Pedido com devolução</string>
+    <string name="pedido_cancelado">Pedido cancelado no ERP</string>
+    <string name="pedido_falta">Pedido com falta</string>
+    <string name="pedido_corte">Pedido sofreu corte</string>
+    <string name="fechar">Fechar</string>
+    <string name="search_title">Procurar</string>
+    <string name="hist_pedidos">Hist. de pedidos</string>
+    <string name="dados_cliente">Dados do cliente</string>
+    <string name="alvaras">Alvarás</string>
+</resources>
